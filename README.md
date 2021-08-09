@@ -1,8 +1,8 @@
 <div style="display: flex">
   <div>
     <a href="https://github.com/Giovannelrodrigues">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Giovannelrodrigues&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannelrodrigues&layout=compact&langs_count=7&theme=monokai"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Giovannelrodrigues&show_icons=true&theme=Radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannelrodrigues&layout=compact&langs_count=7&theme=Radical"/>
   </div>
 </div>
 <br>
